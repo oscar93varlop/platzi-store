@@ -13,7 +13,6 @@ script:
     email:
       recipients:
         oscar93varlop@gmail.com
-        oscar.vargas@clouxter.com
       on_success: always
       on_failure: always
 deploy:
